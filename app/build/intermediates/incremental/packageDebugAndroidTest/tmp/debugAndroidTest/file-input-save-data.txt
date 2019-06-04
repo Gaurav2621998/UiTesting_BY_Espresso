@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jun 03 21:54:19 IST 2019
+0.baseType=DIRECTORY
+0.base=/home/gourav/Downloads/djsong/android-fundamentals-apps-v2-master/TwoActivities/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
